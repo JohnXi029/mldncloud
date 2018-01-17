@@ -1,0 +1,14 @@
+spring:
+  profiles:
+    active:
+    - dev
+---
+spring:
+  profiles: dev
+  application: 
+    name: mldnconfig-test-dev
+---
+spring:
+  profiles: default
+  application: 
+    name: mldnconfig-test-default
