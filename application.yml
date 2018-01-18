@@ -9,6 +9,6 @@ spring:
     name: mldnconfig-test-dev
 ---
 spring:
-  profiles: default
+  profiles: product
   application: 
-    name: mldnconfig-test-default
+    name: mldnconfig-test-product
