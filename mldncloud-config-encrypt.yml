@@ -12,4 +12,4 @@ spring:
     driver-class-name: org.gjt.mm.mysql.Driver      # 配置MySQL的驱动程序类
     url: jdbc:mysql://localhost:3306/mldn8001           # 数据库连接地址
     username: root                                  # 数据库用户名
-    password: {cipher}AQC72s7JE67wUPMzL3fjNHZ9LIC4FIaoh+pc9svBlwqWZR/J2JOJVInhZ2EVO5BH4aT3fqfn8SGauu3USZvW71aiXVMu8sRsDe7gOu1RQeJPyhA6O/lJGbSG056lERATkdFgiiqL8+q0h658m9kA1utdY56FgwKiFR4n833nz1wlYttFE96UEE1Ts5Y2tppLYpBSNlB2XTGpFSud5yT6+54jHVuwhSe49TUX6ooMsG0mcfJ6+PTOIIC0f9CIBidXu+Fpz1Zfk66rV7MmDcEBgJaTrUkJjpplsiP40GrDsf8pqaZ7+IngxTSd6wfzD86Oqs9Nl27Oa/4Fk/RyPVuN+Vq3Vpy1bKpAIa7cKU3PemrIKWbaByYG2Uxgr9JFkaWy5rw=
+    password: '{cipher}AQC72s7JE67wUPMzL3fjNHZ9LIC4FIaoh+pc9svBlwqWZR/J2JOJVInhZ2EVO5BH4aT3fqfn8SGauu3USZvW71aiXVMu8sRsDe7gOu1RQeJPyhA6O/lJGbSG056lERATkdFgiiqL8+q0h658m9kA1utdY56FgwKiFR4n833nz1wlYttFE96UEE1Ts5Y2tppLYpBSNlB2XTGpFSud5yT6+54jHVuwhSe49TUX6ooMsG0mcfJ6+PTOIIC0f9CIBidXu+Fpz1Zfk66rV7MmDcEBgJaTrUkJjpplsiP40GrDsf8pqaZ7+IngxTSd6wfzD86Oqs9Nl27Oa/4Fk/RyPVuN+Vq3Vpy1bKpAIa7cKU3PemrIKWbaByYG2Uxgr9JFkaWy5rw='
