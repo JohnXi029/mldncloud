@@ -10,7 +10,7 @@ spring:
 server:
   port: 8101                                      # 服务端口
 info:
-  app.name: mldn-microcloud-dev-3
+  app.name: mldn-microcloud-dev-7
   company.name: www.mldn.cn
   app.version: v-dev-1.0.0
 ---
@@ -21,7 +21,7 @@ spring:
 server:
   port: 8102                                      # 服务端口
 info:
-  app.name: mldn-microcloud-product-3
+  app.name: mldn-microcloud-product-7
   company.name: www.mldn.cn
   app.version: v-product-1.0.0
 
